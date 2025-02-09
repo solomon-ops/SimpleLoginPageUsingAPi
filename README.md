@@ -1,5 +1,18 @@
 Simple Login & API Integration App
 
+---An Application Preview For your better understanding---
+
+![Image](https://github.com/user-attachments/assets/4c7d29c0-572d-4cec-9c56-fa0f2c0566d9)
+
+![Image](https://github.com/user-attachments/assets/9cf41bce-df97-4cca-a0a6-699697893432)
+
+![Image](https://github.com/user-attachments/assets/84330e3c-8d88-462a-995a-e697f0e61b88)
+
+![Image](https://github.com/user-attachments/assets/098aeb79-4b18-4cae-85e2-e267e554f05e)
+
+![Image](https://github.com/user-attachments/assets/c45c935c-87f1-4bbb-bdf6-5d49917d5e6d)
+
+
 📌 Overview
 
 This Android application demonstrates:
@@ -54,3 +67,5 @@ Retrofit for API calls
 Material Design Components
 
 Android Jetpack Libraries
+
+
